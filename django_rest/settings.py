@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'todo.apps.TodoConfig',
     'django_rest',
     'rest_framework',
+    'authors',
 ]
 
 MIDDLEWARE = [
